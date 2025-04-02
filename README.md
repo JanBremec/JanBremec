@@ -92,7 +92,7 @@
 
   -----
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JanBremec&theme=material-palenight" width="350"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JanBremec&theme=material-palenight" width="250"/>
 </p>
 
 -----
