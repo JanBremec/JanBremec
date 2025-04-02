@@ -92,17 +92,18 @@
 
   -----
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JanBremec&theme=material-palenight" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JanBremec&theme=material-palenight" width="350"/>
 </p>
 
 -----
 
 
 ## Currently Working On 🚀✨ 
-
-<p align="right"> <img align="right" src="https://www.aalpha.net/wp-content/uploads/2021/02/decentralized.gif" alt="Kaggle"/></p>
-
 ### Decentralized Internet 🌐💻
+
+<p> <img src="https://www.aalpha.net/wp-content/uploads/2021/02/decentralized.gif" alt="Kaggle"/></p>
+
+
 
 **Why?**     
 🚫 No central authority, no restrictions!  
